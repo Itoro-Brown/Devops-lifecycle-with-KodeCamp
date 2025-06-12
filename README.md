@@ -64,5 +64,21 @@ DevOps is like a system where chefs and waiters plan together, cook together, an
    <li>
     <h3>Testing</h3><p>The software is checked for bugs and errors using automated and manual tests to make sure it works correctly before it's released.</p>
   </li>
+  <li>
+    <h3><Release/h3>
+    <p>Once tested, the software is approved for delivery, and the final version is made ready for users—usually with a version tag or label.</p>
+  </li>
+   <li>
+    <h3>Deployment</h3>
+    <p>The approved software is moved to the live environment (e.g., the real app or website users access), often using automated tools for speed and safety.</p>
+  </li>
+   <li>
+    <h3>Operations</h3>
+    <p>The system team keeps the software running smoothly they manage servers, fix issues, and ensure everything is up and running as expected.</p>
+  </li>
+   <li>
+    <h3>Monitoring</h3>
+    <p>Tools are used to watch the software in real time, track performance, catch errors, and gather data to help improve the next version.</p>
+  </li>
   
 </ol>
