@@ -45,3 +45,24 @@ DevOps is like a system where chefs and waiters plan together, cook together, an
 
 
 </p>
+
+<h1>Devops Lifecycle Stages</h1>
+<ol>
+  <li>
+    <h3>Planning:</h3><p>This is where the team decides what to build—they gather requirements, set goals, and create a roadmap for the software features or updates.
+
+</p>
+  </li>
+  <li>
+    <h3>Development</h3><p>Developers write the actual code to create features, fix bugs, or improve the product, using tools like Git to track changes.</p>
+  </li>
+   <li>
+    <h3>Building</h3><p>The code is converted into a working software package (like a file or app) using automation tools—this step ensures the software can run properly.
+
+</p>
+  </li>
+   <li>
+    <h3>Testing</h3><p>The software is checked for bugs and errors using automated and manual tests to make sure it works correctly before it's released.</p>
+  </li>
+  
+</ol>
