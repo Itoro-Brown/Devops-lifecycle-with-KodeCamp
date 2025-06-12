@@ -62,7 +62,7 @@ DevOps is like a system where chefs and waiters plan together, cook together, an
 </p>
   </li>
    <li>
-    <h3>Testing</h3><p>The software is checked for bugs and errors using automated and manual tests to make sure it works correctly before it's released.</p>
+    <h3>Testing</h3><p>The software is checked for bugs and errors using automated and manual tests to make sure it works correctly before it's released</p>
   </li>
   <li>
     <h3><Release/h3>
