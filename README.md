@@ -2,7 +2,7 @@
 Second task from Kodecamp
 
 <h1>Foundational DevOps Concepts</h1>
-<h2>Define Devops :</h2> 
+<h2>1. Define Devops :</h2> 
 <p>DevOps is like a teamwork system that helps people who build software (developers) and people who run the software (operations) work together smoothly and faster.
 
 Imagine you're running a restaurant:
