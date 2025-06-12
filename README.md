@@ -82,5 +82,9 @@ Servers and systems are **configured using code**, making them easy to set up, r
     <h3>Monitoring</h3>
     <p>Tools are used to watch the software in real time, track performance, catch errors, and gather data to help improve the next version.</p>
   </li>
+  <li>
+    <h3>Expected Outcom</h3>
+    <p>The desired result or goal that each stage or action in the DevOps lifecycle is meant to achieve is measurable, predictable, and valuable to both the development team and the end user.</p>
+  </li>
   
 </ol>
