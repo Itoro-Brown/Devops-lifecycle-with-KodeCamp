@@ -19,29 +19,31 @@ DevOps is like a system where chefs and waiters plan together, cook together, an
 
 <h2>2. Briefly explain the core principles:</h2>
 <p>
-  The **core principles** of a system, philosophy, or framework are its foundational ideas that guide its functioning. Here are some widely recognized core principles across different domains:
 
-### **General Core Principles**  
-1. **Integrity** – Acting honestly and ethically.  
-2. **Accountability** – Taking responsibility for actions.  
-3. **Transparency** – Openness in processes and decisions.  
-4. **Fairness** – Impartial and just treatment.  
-5. **Respect** – Valuing others’ rights and dignity.  
 
-### **In Business & Leadership**  
-- **Customer Focus** – Prioritizing client needs.  
-- **Innovation** – Encouraging creativity and improvement.  
-- **Sustainability** – Balancing profit with social/environmental responsibility.  
+### 1. **Collaboration** 🤝
 
-### **In Technology & AI**  
-- **Privacy** – Protecting user data.  
-- **Bias Mitigation** – Ensuring fairness in algorithms.  
-- **Explainability** – Making AI decisions understandable.  
+DevOps encourages **strong teamwork** between developers, testers, and operations—breaking silos so everyone works toward the same goal.
 
-### **In Personal Development**  
-- **Growth Mindset** – Believing in continuous learning.  
-- **Resilience** – Overcoming challenges.  
-- **Self-Discipline** – Staying committed to goals.  
+### 2. **Automation** ⚙️
+
+Manual tasks like testing, building, and deployment are automated to **save time, reduce errors**, and increase speed>
+
+### 3. **Continuous Integration and Continuous Delivery (CI/CD)** 🔁
+
+Code changes are **frequently integrated**, tested, and delivered—making sure new features and fixes reach users faster and more reliably.
+
+### 4. **Monitoring and Feedback** 📊
+
+Systems are **monitored in real time**, and feedback is quickly shared with the team to **detect problems early** and improve future releases.
+
+### 5. **Security (DevSecOps)** 🔐
+
+Security is built into every stage of the process—not added at the end—ensuring the software is safe from the start.
+
+### 6. **Infrastructure as Code (IaC)** 🧱
+
+Servers and systems are **configured using code**, making them easy to set up, replicate, and manage consistently.
 
 
 </p>
